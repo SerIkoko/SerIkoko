@@ -1,7 +1,8 @@
 # 💫 About Me:
 🦆🦆🦆
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SerIkoko&label=Profile%20views&color=b60eb1&style=flat" alt="SerIkoko" /> </p>
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=SerIkoko&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 # 💻 Tech Stack:
 
